@@ -75,3 +75,7 @@ pod 'FDFullscreenPopGesture', '1.1'
 
 # License  
 MIT
+
+
+滑动手势改善版
+
