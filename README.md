@@ -78,4 +78,5 @@ MIT
 
 
 滑动手势改善版
+改善参考 https://www.cnblogs.com/sundaysgarden/articles/10671333.html
 
